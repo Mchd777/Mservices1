@@ -1,0 +1,265 @@
+@media (max-width: 1028px) {
+  .chien {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+
+/* Navigation barre */
+.navbar {
+  background-color: #3AB0FF;
+}
+
+.container-fluid {
+  background-color: #3AB0FF;
+  padding: 40px 100px 15px;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 15px;
+  font-size: 1.5rem;
+}
+
+.crypt1 {
+  font-family: 'Montserrat';
+  font-size: 5rem;
+  line-height: 7rem;
+  color: white;
+}
+
+.m {
+margin-left: 250px;
+  transform: rotate(18deg);
+  width: 400px;
+
+}
+
+.titre1 {
+  padding-top: 4.5em;
+}
+
+/* Navigation barre */
+
+/* Nos valeurs */
+.nosvaleurs {
+  padding: 4.5% 8%;
+  position: relative;
+  z-index: 1;
+  background-color: white;
+
+}
+
+
+
+.titre2 {
+  text-align: center;
+}
+
+.icons {
+  color: #3AB0FF;
+  margin-bottom: 1.5rem;
+}
+
+.icons:hover {
+  color: #C4DDFF;
+}
+
+/* Nos valeurs */
+
+/* Témoignages */
+
+.temoignages {
+  font-family: 'Montserrat';
+  font-size: 1.8em;
+  color: white;
+}
+.carousel-item {
+  text-align: center;
+  padding: 2% 15%;
+  background-color: #3AB0FF;
+}
+.temoin {
+  color: white;
+  font-size: 1.4rem;
+}
+.imagerond1 {
+  border-radius: 50%;
+  padding-bottom: 15px;
+  width: 25%;
+}
+
+.imagerond {
+  border-radius: 50%;
+  padding-bottom: 15px;
+  width: 25%;
+}
+
+.ttext {
+  text-align: center;
+}
+
+/* Témoignages */
+
+/* Services */
+
+.teteservices {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 3rem;
+}
+
+.corps1 {
+  padding:  45px 0;
+}
+
+.img-services {
+  width: 35%;
+  margin-bottom: 25px;
+}
+.h4 {
+  font-family: 'Montserrat';
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+/* Marketplace */
+
+
+.tetemarket {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 3rem;
+}
+.tetemarket2 {
+  text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+p {
+  color: #73777B;
+}
+
+.grille {
+    background-color: #3AB0FF;
+}
+
+.place {
+    background-color: #3AB0FF;
+    padding: 40px 0;
+}
+
+.prix {
+  margin: 25px auto;
+}
+
+.colprix {
+  padding: 15px 25px;
+}
+
+/* Marketplace */
+
+/* Pieds de page */
+
+.contact {
+  /* background-color: #3AB0FF; */
+  font-size: 1.8rem;
+  color: #222831;
+  padding: 10px 50px;
+  text-align: center;
+}
+
+
+.tbas {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+font-weight: bold;
+
+}
+
+/* Pieds de page */
+
+.pieds {
+  text-align: center;
+  background-color: #3AB0FF;
+  padding: 20px 75px 0;
+}
+i {
+  padding-right: 18px;
+}
+.copyr {
+  font-size: 0.8rem;
+  color: black;
+  margin-bottom: 0;
+}
+/* Pieds de page */
+
+
+/* Formulaire */
+
+
+.blue {
+    background-color: white;
+}
+.contact-form{
+  background-color: white;
+    margin-top: 40px 0;
+    width: 100%;
+}
+.contact-form .form-control{
+    border-radius:1rem;
+}
+.contact-image{
+    text-align: center;
+}
+.contact-image img{
+    border-radius: 6rem;
+    width: 11%;
+    margin-top: -3%;
+    transform: rotate(29deg);
+}
+.contact-form form{
+    padding: 2% 11% 7%;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form h3{
+    margin-bottom: 8%;
+    margin-top: -10%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #3AB0FF;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.btnContactSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #3AB0FF;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
+
+.case {
+  padding: 8px;
+}
